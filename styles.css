@@ -1,0 +1,19 @@
+
+body{
+    background-color: #212121;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding: 50px;
+}
+
+div{
+    margin: 25px;
+    padding: 25px;
+}
+.button{
+    margin: 15px;
+    padding: 5px;
+}
